@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Smart-Health-Care-Project](https://github.com/Akshathamk-123/Smart-Health-Care-Project)
+- 🔭 I’m currently working on [InsectInspiredNavigation_PI-LGMD](https://github.com/Akshathamk-123/InsectInspiredNavigation_PI-LGMD)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Akshathamk-123?tab=repositories](https://github.com/Akshathamk-123?tab=repositories)
 
